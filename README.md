@@ -1,12 +1,12 @@
 # First-project
 This is my first project
-<style>
-  *{
-    background-color:yellow;
-  }
+<head>
+ <style>
   h1{
-    colo:blue;
-  }
-</style>
+   color:blue;
+   background-color:red;
+   }
+ </style>
+</head>
 <br>
 <h1>Hello Welcome to gaming</h1>
